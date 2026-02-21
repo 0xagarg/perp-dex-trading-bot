@@ -163,4 +163,4 @@ Algorithmic trading carries risk. Validate strategies with paper accounts or sma
 
 ## Contact
 For questions or technical support, please contact:
-- Telegram: [@d0sc4u](https://t.me/d0sc4u)
+- Telegram: [@buckybonez](https://t.me/buckybonez)
