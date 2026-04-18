@@ -161,6 +161,3 @@ bun x vitest --watch
 ## Disclaimer
 Algorithmic trading carries risk. Validate strategies with paper accounts or small capital first, safeguard your API keys, and only grant the minimum required permissions.
 
-## Contact
-For questions or technical support, please contact:
-- Telegram: [@buckybonez](https://t.me/buckybonez)
